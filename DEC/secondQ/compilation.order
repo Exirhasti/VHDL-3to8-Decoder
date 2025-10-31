@@ -1,0 +1,3 @@
+.\src\Decoder.vhd
+.\src\TestBench\dec_TB.vhd
+.\src\TestBench\decoder3to8_TB.vhd

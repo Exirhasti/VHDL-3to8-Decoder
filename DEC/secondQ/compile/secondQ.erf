@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/exirh/Desktop/Private/5th semester/Aminian/SecondQ/HW02DEC/secondQ/src/TestBench/decoder3to8_TB.vhd" 
+MESSAGE "Compile Entity "decoder3to8_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "decoder3to8_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_decoder3to8"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]" 
